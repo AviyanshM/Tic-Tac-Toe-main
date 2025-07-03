@@ -1,8 +1,11 @@
 🕹️ Tic Tac Toe Game
 
+
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. Play against a friend in this classic 3x3 grid game and enjoy a clean, responsive interface!
 
+
 🎯 Features
+
 
 ✅ Two-player mode (X vs O)
 
@@ -14,12 +17,16 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ✅ Responsive design – works on desktop and mobile
 
+
 🛠️ Tech Stack
+
+
 HTML – structure of the game board and elements
 
 CSS – for layout, styling, and animations
 
 JavaScript – to handle game logic, turns, win/draw conditions
+
 
 🧠 Game Rules
 Players take turns marking a square (X or O).
