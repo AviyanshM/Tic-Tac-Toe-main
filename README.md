@@ -25,10 +25,12 @@ HTML – structure of the game board and elements
 
 CSS – for layout, styling, and animations
 
-JavaScript – to handle game logic, turns, win/draw conditions
+JavaScript – to handle game logic, turns, win/draw conditions      
 
 
 🧠 Game Rules
+
+
 Players take turns marking a square (X or O).
 
 The first player to align 3 marks (horizontally, vertically, or diagonally) wins.
